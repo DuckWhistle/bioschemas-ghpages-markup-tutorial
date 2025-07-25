@@ -19,9 +19,11 @@ This page has been created to embed schema.org and Bioschemas markup describing 
     "license": {
       "@type": "CreativeWork",
       "@id": "http://spdx.org/licenses/CC-BY-4.0",
+      "http://purl.org/dc/terms/conformsTo": "https://bioschemas.org/profiles/SemanticTextAnnotation/0.3-DRAFT",
       "name": "Creative Commons Attribution 4.0 International", 
       "alternateName": "CC BY 4.0",
-      "url": "https://creativecommons.org/licenses/by/4.0/"
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "text": "Creative Commons Attribution 4.0 International"
     },
     "url": "https://zenodo.org/record/7338056",
     "datePublished": "2022-11-19",
